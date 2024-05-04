@@ -44,3 +44,24 @@
    44  git merge develop
    45  git log
    46  history > command_list.csv
+   47  git status
+   48  git add "command_list.csv"
+   49  git commit "command_list.csv"
+   50  cd /c/Users/Admin/Desktop/HW10
+   51  git checkout main
+   52  cd HW_10/
+   53  git checkout main
+   54  git status
+   55  git commit -m"command_list.csv"
+   56  git push
+   57  rm .gitignore.txt
+   58  ls -l
+   59  vim .gitignore
+   60  git status
+   61  git add ".gitignore"
+   62  git status
+   63  git commit -m".gitignore"
+   64  rm command_list.csv 
+   65  ls -l
+   66  ls -l
+   67  history > command_list.csv
